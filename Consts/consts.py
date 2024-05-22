@@ -1,0 +1,7 @@
+CHROMA_COLLECTION_NAME = "DrugsReviews"
+CHROMA_PORT = 8000
+CHROMA_HOST = "localhost"
+SQLITE_DB_NAME = "DrugsReviews.db"
+SQLITE_DB_PATH = f"./sqlite/{SQLITE_DB_NAME}"
+PANDAS_DATA_PATH = "./Data/drugsComTest_raw.csv"
+MAX_CHROMA_BUNCH_SIZE = 41666

@@ -1,0 +1,46 @@
+[
+  [
+    {
+      "Element count": 41666,
+      "SQLite Time": 0.15803295799560146
+    },
+    {
+      "Element count": 41666,
+      "SQLite Time": 0.1583295000018552
+    },
+    {
+      "Element count": 41666,
+      "SQLite Time": 0.15608458300266648
+    },
+    {
+      "Element count": 41666,
+      "SQLite Time": 0.1537115419996553
+    },
+    {
+      "Element count": 41666,
+      "SQLite Time": 0.15447600000334205
+    }
+  ],
+  [
+    {
+      "Element count": 41666,
+      "Chroma Time": 709.9205649590003
+    },
+    {
+      "Element count": 41666,
+      "Chroma Time": 674.2811606670002
+    },
+    {
+      "Element count": 41666,
+      "Chroma Time": 653.8427874580011
+    },
+    {
+      "Element count": 41666,
+      "Chroma Time": 634.4209047499971
+    },
+    {
+      "Element count": 41666,
+      "Chroma Time": 635.0433343330005
+    }
+  ]
+]

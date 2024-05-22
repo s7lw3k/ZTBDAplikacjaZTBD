@@ -1,0 +1,120 @@
+[
+  [
+    {
+      "Element count": 575141,
+      "Chroma Time": 5.867229624998799
+    },
+    {
+      "Element count": 575141,
+      "Chroma Time": 3.599551417000839
+    },
+    {
+      "Element count": 575141,
+      "Chroma Time": 1.7939752499987662
+    },
+    {
+      "Element count": 575141,
+      "Chroma Time": 0.9956832500010933
+    },
+    {
+      "Element count": 575141,
+      "Chroma Time": 1.3740120830007072
+    }
+  ],
+  [
+    {
+      "Element count": 41666,
+      "SQLite Time": 0.002105249999658554
+    },
+    {
+      "Element count": 41666,
+      "SQLite Time": 0.00011679099952743854
+    },
+    {
+      "Element count": 41666,
+      "SQLite Time": 0.00010720800128183328
+    },
+    {
+      "Element count": 41666,
+      "SQLite Time": 9.187500108964741e-05
+    },
+    {
+      "Element count": 41666,
+      "SQLite Time": 0.0002711670003918698
+    }
+  ],
+  [
+    {
+      "Element count": 10000,
+      "Chroma Time": 10.900742083000296
+    },
+    {
+      "Element count": 10000,
+      "Chroma Time": 8.589813791999404
+    },
+    {
+      "Element count": 10000,
+      "Chroma Time": 8.008819332999337
+    },
+    {
+      "Element count": 10000,
+      "Chroma Time": 7.538024666999263
+    },
+    {
+      "Element count": 10000,
+      "Chroma Time": 8.015108125000552
+    }
+  ],
+  [
+    {
+      "Element count": 6789298,
+      "SQLite Time": 19.12098629100001
+    },
+    {
+      "Element count": 6789298,
+      "SQLite Time": 15.064519292000114
+    },
+    {
+      "Element count": 6789298,
+      "SQLite Time": 14.936837583998567
+    },
+    {
+      "Element count": 6789298,
+      "SQLite Time": 15.014343916000144
+    },
+    {
+      "Element count": 6789298,
+      "SQLite Time": 15.569771166999999
+    }
+  ],
+  [
+    {
+      "Element count": 1,
+      "Chroma Time": 0.14071974999933445
+    },
+    {
+      "Element count": 10,
+      "Chroma Time": 0.030019666000953293
+    },
+    {
+      "Element count": 50,
+      "Chroma Time": 0.031240874999639345
+    },
+    {
+      "Element count": 100,
+      "Chroma Time": 0.06744687499849533
+    },
+    {
+      "Element count": 1000,
+      "Chroma Time": 0.18798241699914797
+    },
+    {
+      "Element count": 10000,
+      "Chroma Time": 0.8952632500004256
+    },
+    {
+      "Element count": 40000,
+      "Chroma Time": 2.0629944580014126
+    }
+  ]
+]
